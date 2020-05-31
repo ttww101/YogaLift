@@ -1,0 +1,61 @@
+{
+    "description": "活络身心，下班全身一起动一动",
+    "icon": "Icon_Yin_03_0",
+    "id": "yinyoga2",
+    "time": 4,
+    "title": "基础阴瑜珈",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 双腿并拢贴地，上身前弯。\n2. 可视自身情况调整下弯幅度。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_12_1",
+                "Yin_a_12_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_12_0",
+            "title": "上身拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 双手双膝撑地，呈现狗爬式。\n2. 低头让背部拱起。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_13_1",
+                "Yin_a_13_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_13_0",
+            "title": "下犬式"
+        },
+        {
+            "count": 30,
+            "description": "1. 一脚往前一脚往后向上勾起，上身后仰拉住勾起的脚底板。\n2. 可适时换边喔。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_15_1",
+                "Yin_a_15_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_15_0",
+            "title": "英雄式"
+        },
+        {
+            "count": 30,
+            "description": "1. 先呈现跪姿，将身体向后仰，若觉得困难也能在后背放个辅助靠着。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_16_1",
+                "Yin_a_16_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_16_0",
+            "title": "富士山"
+        }
+    ]
+}

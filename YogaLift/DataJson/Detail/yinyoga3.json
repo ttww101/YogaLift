@@ -1,0 +1,61 @@
+{
+    "description": "活络身心，下班全身一起动一动",
+    "icon": "Icon_Yin_04_0",
+    "id": "yinyoga3",
+    "time": 4,
+    "title": "进阶阴瑜珈",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 先利用墙面让身体呈现Ｌ字型。\n2. 弯曲膝盖将脚放至头顶。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_17_1",
+                "Yin_a_17_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_17_0",
+            "title": "弓箭式"
+        },
+        {
+            "count": 30,
+            "description": "1. 臀部支撑地面，慢慢将双腿抬起弯至颈部。\n2. 若无法达到也可尝试让身体和腿往中间夹。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_18_1",
+                "Yin_a_18_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_18_0",
+            "title": "元宝式"
+        },
+        {
+            "count": 30,
+            "description": "1. 双臂贴齐地面，将身体和双腿向上伸直。\n2. 弯曲髋部身体保值向上直立。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_19_1",
+                "Yin_a_19_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_19_0",
+            "title": "弯倒立式"
+        },
+        {
+            "count": 30,
+            "description": "1. 先呈现倒立，一脚往上拉伸，一脚拉直下弯90度。",
+            "hint": "下班全身一起动一动",
+            "images": [
+                "Yin_a_20_1",
+                "Yin_a_20_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_20_0",
+            "title": "倒芭蕾式"
+        }
+    ]
+}

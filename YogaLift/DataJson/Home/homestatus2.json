@@ -1,0 +1,17 @@
+{
+    "background": "Background_Purple",
+    "status": "beforeSleep",
+    "title": "准备就寝",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_quiet_05",
+            "id": "train4",
+            "title": "睡前静瑜珈"
+        },
+        {
+            "buttonImage": "Icon_Yin_05",
+            "id": "yinyoga4",
+            "title": "睡前阴瑜珈"
+        }
+    ]
+}

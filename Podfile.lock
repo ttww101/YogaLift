@@ -1,0 +1,81 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManagerSwift (6.0.4)
+  - JCore (2.1.1)
+  - JPush (3.2.2):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Kingfisher (5.7.1)
+  - LeanCloud (16.5.0):
+    - LeanCloud/IM (= 16.5.0)
+    - LeanCloud/Storage (= 16.5.0)
+  - LeanCloud/IM (16.5.0):
+    - FMDB (~> 2.7.0)
+    - LeanCloud/Storage
+    - Starscream (~> 3.1.0)
+    - SwiftProtobuf (~> 1.6.0)
+  - LeanCloud/Storage (16.5.0):
+    - Alamofire (~> 4.8.0)
+  - MBCircularProgressBar (0.3.5)
+  - MKProgress (1.0.9)
+  - SCLAlertView (0.8)
+  - Starscream (3.1.0)
+  - SwiftLint (0.34.0)
+  - SwiftProtobuf (1.6.0)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - JPush
+  - Kingfisher
+  - LeanCloud
+  - MBCircularProgressBar
+  - MKProgress (~> 1.0.9)
+  - SCLAlertView
+  - SwiftLint
+  - TTTAttributedLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - FMDB
+    - IQKeyboardManagerSwift
+    - JCore
+    - JPush
+    - Kingfisher
+    - LeanCloud
+    - MBCircularProgressBar
+    - MKProgress
+    - SCLAlertView
+    - Starscream
+    - SwiftLint
+    - SwiftProtobuf
+    - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  JCore: 4072327557f0b83cc22dd4041f2f839740c0077b
+  JPush: 0e9088c85c73275629facc311fe5992dfac36eeb
+  Kingfisher: 176d377ad339113c99ad4980cbae687f807e20fe
+  LeanCloud: 08df0aa28a5242c8ac9850ac96c37163d153935d
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  MKProgress: 4fa8dd701b872c82b780c885d577f99c8848d584
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  Starscream: 08172b481e145289c4930cb567230fb55897cfa4
+  SwiftLint: 79d48a17c6565dc286c37efb8322c7b450f95c67
+  SwiftProtobuf: e905ca1366405696411aaf174411c4b19c0ef73d
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: 369ff3e7657b39085da19a63b87ae6abd6b18cd6
+
+COCOAPODS: 1.7.5

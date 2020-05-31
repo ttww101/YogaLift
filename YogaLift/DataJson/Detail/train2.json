@@ -1,0 +1,61 @@
+{
+    "description":"活络身心，下班全身一起动一动！",
+    "icon":"Icon_quiet_03_0",
+    "id":"train2",
+    "time": 4,
+    "title":"基础静瑜珈",
+    "workoutSet":[
+        {
+            "count":30,
+            "description":"1. 站姿，双脚打开与骨盆同宽，双手合实置于胸前。\n2. 深呼吸，慢慢吐气，让自己沉静下来。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_1_1",
+                "quiet_a_1_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_1_0",
+            "title":"静止式"
+        },
+        {
+            "count":30,
+            "description":"1. 身体呈站姿，双手举起往上伸展。\n2. 深呼吸，吐气时将手慢慢向上伸展。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_2_1",
+                "quiet_a_2_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_2_0",
+            "title":"全身伸展"
+        },
+        {
+            "count":30,
+            "description":"1. 身体呈站姿，双手举起往上伸展。\n2. 深呼吸，吐气时踮起脚尖将手慢慢向上伸展。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_18_1",
+                "quiet_a_18_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_18_0",
+            "title":"踮脚伸展"
+        },
+        {
+            "count":30,
+            "description":"1. 站姿，单脚抬起和地面平行，上半身下弯让腹部和大腿贴齐。\n2. 深呼吸，吐气时让身体和腿部贴齐，到达自己的极限就好，不要受伤。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_20_1",
+                "quiet_a_20_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_20_0",
+            "title":"下身伸展"
+        }
+    ]
+}

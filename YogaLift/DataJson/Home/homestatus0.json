@@ -1,0 +1,27 @@
+{
+    "background": "Background_Orange",
+    "status": "resting",
+    "title": "休息中",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_quiet_03",
+            "id": "train2",
+            "title": "基础静瑜珈"
+        },
+        {
+            "buttonImage": "Icon_Yin_03",
+            "id": "yinyoga2",
+            "title": "基础阴瑜珈"
+        },
+        {
+            "buttonImage": "Icon_quiet_04",
+            "id": "train3",
+            "title": "进阶静瑜珈"
+        },
+        {
+            "buttonImage": "Icon_Yin_04",
+            "id": "yinyoga3",
+            "title": "进阶阴瑜珈"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "description":"工作休息动一动，久坐要伸展一下喔！",
+    "icon":"Icon_quiet_02_0",
+    "id":"train1",
+    "time": 4,
+    "title":"工作静瑜珈",
+    "workoutSet":[
+        {
+            "count":30,
+            "description":"1. 身体向前弯腰，双手向后向上伸展。\n2. 可以尝试再弯下去一点，到自己觉得舒适的位置。",
+            "hint":"工作休息动一动",
+            "images":[
+                "quiet_a_5_1",
+                "quiet_a_5_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_5_0",
+            "title":"鞠躬拉伸"
+        },
+        {
+            "count":30,
+            "description":"1. 双膝微弯，双手合实置于胸前。\n2. 重心向后，避免给膝盖造成太多压力。",
+            "hint":"工作休息动一动",
+            "images":[
+                "quiet_a_6_1",
+                "quiet_a_6_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_6_0",
+            "title":"半蹲合掌"
+        },
+        {
+            "count":30,
+            "description":"1. 站姿，单脚抬起，双手合实至于胸前。\n2. 保持平衡，脚酸了可换脚继续。",
+            "hint":"工作休息动一动",
+            "images":[
+                "quiet_a_17_1",
+                "quiet_a_17_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_17_0",
+            "title":"单脚立定"
+        },
+        {
+            "count":30,
+            "description":"1. 单脚抬起，可用手抓着或是置于墙壁。",
+            "hint":"工作休息动一动",
+            "images":[
+                "quiet_a_19_1",
+                "quiet_a_19_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_19_0",
+            "title":"单脚拉伸"
+        }
+    ]
+}

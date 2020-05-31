@@ -1,0 +1,13 @@
+${PODS_ROOT}/Target Support Files/Pods-YogaLift/Pods-YogaLift-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/LeanCloud/LeanCloud.framework
+${BUILT_PRODUCTS_DIR}/MBCircularProgressBar/MBCircularProgressBar.framework
+${BUILT_PRODUCTS_DIR}/MKProgress/MKProgress.framework
+${BUILT_PRODUCTS_DIR}/SCLAlertView/SCLAlertView.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftProtobuf/SwiftProtobuf.framework
+${BUILT_PRODUCTS_DIR}/TTTAttributedLabel/TTTAttributedLabel.framework

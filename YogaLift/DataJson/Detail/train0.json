@@ -1,0 +1,71 @@
+{
+    "description":"早上起床动一动，打开一天的身体机能！",
+    "icon":"Icon_quiet_01_0",
+    "id":"train0",
+    "time": 4,
+    "title":"起床静瑜珈",
+    "workoutSet":[
+        {
+            "annotation":[
+                "若脚觉得酸的话，可以换脚继续拉伸。"
+            ],
+            "count":30,
+            "description":"1. 单脚支撑，另一脚向后伸展，双手先往上伸直，再弯腰向前伸展。\n2. 注意平衡，让手身体脚呈一直线，平行于地面。",
+            "hint":"早上起床动一动",
+            "images":[
+                "quiet_a_3_1",
+                "quiet_a_3_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_3_0",
+            "title":"单脚身体拉伸"
+        },
+        {
+            "annotation":[
+                "若脚觉得酸的话，可以换脚继续拉伸。"
+            ],
+            "count":30,
+            "description":"1. 单脚支撑，另一脚向后勾起，身体前倾，一手向后拉着脚，另一手向前伸展。\n2. 注意保持平衡，若脚无法抬起至太高，则可利用墙壁或桌子来达到效果。",
+            "hint":"早上起床动一动",
+            "images":[
+                "quiet_a_4_1",
+                "quiet_a_4_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_4_0",
+            "title":"单脚天鹅式"
+        },
+        {
+            "count":30,
+            "description":"1. 双膝微弯，双手平举。\n2. 重心向后，避免给膝盖造成太多压力。",
+            "hint":"双手握住毛巾两端后往上伸直",
+            "images":[
+                "quiet_a_8_1",
+                "quiet_a_8_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_8_0",
+            "title":"半蹲平举"
+        },
+        {
+            "annotation":[
+                "动作时，注意颈部不可过度用力，尽量放松。避免压迫颈椎。",
+                "以不疼痛为原则，适度调整动作，可以利用辅助道具达成目的。"
+            ],
+            "count":30,
+            "description":"1. 双手向后撑于地面，身体向上拱起，手肘弯曲撑于地面。\n2. 若手肘无法弯下去，可用双手支撑即可。",
+            "hint":"慢慢将上半身抬起、卷起身体",
+            "images":[
+                "quiet_a_9_1",
+                "quiet_a_9_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_9_0",
+            "title":"后拱桥式"
+        }
+    ]
+}

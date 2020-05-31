@@ -1,0 +1,61 @@
+{
+    "description": "工作休息动一动，久坐要伸展一下喔!",
+    "icon": "Icon_Yin_02_0",
+    "id": "yinyoga1",
+    "time": 4,
+    "title": "工作阴瑜珈",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 让身体悬空，用双手和双脚撑于地面。\n2. 将上身扬起，大腿贴于地面，拉伸背部。",
+            "hint": "久坐要伸展一下喔",
+            "images": [
+                "Yin_a_4_1",
+                "Yin_a_4_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_4_0",
+            "title": "平板伸展"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，让小腿从外向上勾起。",
+            "hint": "久坐要伸展一下喔",
+            "images": [
+                "Yin_a_7_1",
+                "Yin_a_7_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_7_0",
+            "title": "下身伸展"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，脚向上抬起，用双手环抱，可以适时换边拉伸。",
+            "hint": "久坐要伸展一下喔",
+            "images": [
+                "Yin_a_8_1",
+                "Yin_a_8_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_8_0",
+            "title": "髋部拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 跪姿，上半身下弯让手贴地。",
+            "hint": "久坐要伸展一下喔",
+            "images": [
+                "Yin_a_11_1",
+                "Yin_a_11_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_11_0",
+            "title": "上身拉伸"
+        }
+    ]
+}

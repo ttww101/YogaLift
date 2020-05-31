@@ -1,0 +1,61 @@
+{
+    "description":"睡前伸展一下，保持最好的睡眠品质！",
+    "icon":"Icon_quiet_05_0",
+    "id":"train4",
+    "time": 4,
+    "title":"睡前静瑜珈",
+    "workoutSet":[
+        {
+            "count":30,
+            "description":"1. 后仰将双手撑于地面。\n2. 将双脚往前走几步，拉长距离。",
+            "hint":"睡前伸展一下",
+            "images":[
+                "quiet_a_10_1",
+                "quiet_a_10_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_10_0",
+            "title":"后拱桥式"
+        },
+        {
+            "count":30,
+            "description":"1. 后仰将双手撑于地面。\n2. 将肩膀放于地面，双臂贴地。",
+            "hint":"睡前伸展一下",
+            "images":[
+                "quiet_a_11_1",
+                "quiet_a_11_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_11_0",
+            "title":"桥式运动"
+        },
+        {
+            "count":30,
+            "description":"1. 倒立式，可利用墙壁来达成倒立，若有头晕应立即停止。\n2. 让手肘撑于地面支撑。",
+            "hint":"睡前伸展一下",
+            "images":[
+                "quiet_a_12_1",
+                "quiet_a_12_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_12_0",
+            "title":"手肘倒立"
+        },
+        {
+            "count":30,
+            "description":"1. 臀部支撑于地面，用腿和身体往中间夹。\n2. 深呼吸，吐气时努力将身体和腿往中间夹。",
+            "hint":"双手握住毛巾两端后往上伸直",
+            "images":[
+                "quiet_a_16_1",
+                "quiet_a_16_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_16_0",
+            "title":"V字拉伸"
+        }
+    ]
+}

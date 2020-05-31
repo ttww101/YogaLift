@@ -1,0 +1,64 @@
+{
+    "description": "早上起床动一动，打开一天的身体机能",
+    "icon": "Icon_Yin_01_0",
+    "id": "yinyoga0",
+    "time": 4,
+    "title": "起床阴瑜珈",
+    "workoutSet": [
+        {
+            "annotation":[
+                "若脚觉得酸的话，可以换脚继续拉伸。"
+            ],
+            "count":30,
+            "description":"1. 单脚支撑，另一脚向后勾起，身体前倾，一手向后拉着脚，另一手向前伸展。\n2. 注意保持平衡，若脚无法抬起至太高，则可利用墙壁或桌子来达到效果。",
+            "hint":"早上起床动一动",
+            "images":[
+                "Yin_a_1_1",
+                "Yin_a_1_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"Yin_a_1_0",
+            "title":"单脚天鹅式"
+        },
+        {
+            "count": 30,
+            "description": "1. 一手撑于地面，让身体呈现45度角。\n2. 一脚抬起拉伸髋部，可以适时换边继续。",
+            "hint": "早上起床动一动",
+            "images": [
+                "Yin_a_2_1",
+                "Yin_a_2_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_2_0",
+            "title": "单脚朝天"
+        },
+        {
+            "count": 30,
+            "description": "1. 将双脚开至肩膀1.5~2倍宽度，将身体从一边慢慢下腰。\n2. 深呼吸，吐气时试着让身体弯更下去并同时移至中间。",
+            "hint": "早上起床动一动",
+            "images": [
+                "Yin_a_3_1",
+                "Yin_a_3_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_3_0",
+            "title": "开脚下腰"
+        },
+        {
+            "count": 30,
+            "description": "1. 双手撑于地面，双脚和臀部悬空。\n2. 将双脚和身体往中间夹，若无法做到也可坐在地板上让身体前弯。",
+            "hint": "双手握住毛巾两端后往上伸直",
+            "images": [
+                "Yin_a_10_1",
+                "Yin_a_10_2"
+            ],
+            "perDuration": 10,
+            "repeat": 2,
+            "thumbnail": "Yin_a_10_0",
+            "title": "下身悬空"
+        }
+    ]
+}

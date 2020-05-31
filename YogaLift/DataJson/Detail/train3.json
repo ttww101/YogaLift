@@ -1,0 +1,64 @@
+{
+    "description":"活络身心，下班全身一起动一动！",
+    "icon":"Icon_quiet_04_0",
+    "id":"train3",
+    "time": 4,
+    "title":"进阶静瑜珈",
+    "workoutSet":[
+        {
+            "count":30,
+            "description":"1. 身体后仰让双手撑于地面，可将单脚抬起同时让髋部拉伸。\n2. 若后仰无法弯太下去，可利用桌子或椅子增加高度。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_7_1",
+                "quiet_a_7_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_7_0",
+            "title":"后仰拉伸"
+        },
+        {
+            "count":30,
+            "description":"1. 倒立式，可利用墙壁来达成倒立，若有头晕应立即停止。\n2. 低头让身体再下去一点，这部分要注意别让颈部受伤，无法作到的话可用一般倒立即可。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_13_1",
+                "quiet_a_13_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_13_0",
+            "title":"倒立拉伸"
+        },
+        {
+            "count":30,
+            "description":"1. 倒立式，可利用墙壁来达成倒立，若有头晕应立即停止。\n2. 让双脚往前往后拉开呈现劈腿状，这部分可以慢慢来，到达极限即可。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_14_1",
+                "quiet_a_14_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_14_0",
+            "title":"T字倒立"
+        },
+        {
+            "annotation":[
+                "请勿使用颈部的力量起身，尽量以腹部的力量，以免受伤。"
+            ],
+            "count":30,
+            "description":"1. 倒立式，正面贴齐墙壁，若有头晕应立即停止。\n2. 让头和身体面面沿着墙壁伸展出去，整体呈现Ｌ形状。",
+            "hint":"下班全身一起动一动",
+            "images":[
+                "quiet_a_15_1",
+                "quiet_a_15_2"
+            ],
+            "perDuration":10,
+            "repeat":2,
+            "thumbnail":"quiet_a_15_0",
+            "title":"L倒立"
+        }
+    ]
+}

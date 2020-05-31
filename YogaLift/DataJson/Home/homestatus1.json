@@ -1,0 +1,17 @@
+{
+    "background": "Background_Green",
+    "status": "working",
+    "title": "工作中",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_quiet_02",
+            "id": "train1",
+            "title": "工作静瑜珈"
+        },
+        {
+            "buttonImage": "Icon_Yin_02",
+            "id": "yinyoga1",
+            "title": "工作阴瑜珈"
+        }
+    ]
+}

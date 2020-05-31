@@ -1,0 +1,310 @@
+[
+    {
+        "description": "早上起床动一动，打开一天的身体机能",
+        "icon": "Icon_Yin_01_0",
+        "id": "yinyoga0",
+        "time": 4,
+        "title": "起床阴瑜珈",
+        "workoutSet": [
+            {
+                "annotation":[
+                    "若脚觉得酸的话，可以换脚继续拉伸。"
+                ],
+                "count":30,
+                "description":"1. 单脚支撑，另一脚向后勾起，身体前倾，一手向后拉着脚，另一手向前伸展。\n2. 注意保持平衡，若脚无法抬起至太高，则可利用墙壁或桌子来达到效果。",
+                "hint":"早上起床动一动",
+                "images":[
+                    "Yin_a_1_1",
+                    "Yin_a_1_2"
+                ],
+                "perDuration":10,
+                "repeat":2,
+                "thumbnail":"Yin_a_1_0",
+                "title":"单脚天鹅式"
+            },
+            {
+                "count": 30,
+                "description": "1. 一手撑于地面，让身体呈现45度角。\n2. 一脚抬起拉伸髋部，可以适时换边继续。",
+                "hint": "早上起床动一动",
+                "images": [
+                    "Yin_a_2_1",
+                    "Yin_a_2_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_2_0",
+                "title": "单脚朝天"
+            },
+            {
+                "count": 30,
+                "description": "1. 将双脚开至肩膀1.5~2倍宽度，将身体从一边慢慢下腰。\n2. 深呼吸，吐气时试着让身体弯更下去并同时移至中间。",
+                "hint": "早上起床动一动",
+                "images": [
+                    "Yin_a_3_1",
+                    "Yin_a_3_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_3_0",
+                "title": "开脚下腰"
+            },
+            {
+                "count": 30,
+                "description": "1. 双手撑于地面，双脚和臀部悬空。\n2. 将双脚和身体往中间夹，若无法做到也可坐在地板上让身体前弯。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Yin_a_10_1",
+                    "Yin_a_10_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_10_0",
+                "title": "下身悬空"
+            }
+        ]
+    },
+    {
+        "description": "工作休息动一动，久坐要伸展一下喔!",
+        "icon": "Icon_Yin_02_0",
+        "id": "yinyoga1",
+        "time": 4,
+        "title": "工作阴瑜珈",
+        "workoutSet": [
+            {
+                "count": 30,
+                "description": "1. 让身体悬空，用双手和双脚撑于地面。\n2. 将上身扬起，大腿贴于地面，拉伸背部。",
+                "hint": "久坐要伸展一下喔",
+                "images": [
+                    "Yin_a_4_1",
+                    "Yin_a_4_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_4_0",
+                "title": "平板伸展"
+            },
+            {
+                "count": 30,
+                "description": "1. 躺姿，让小腿从外向上勾起。",
+                "hint": "久坐要伸展一下喔",
+                "images": [
+                    "Yin_a_7_1",
+                    "Yin_a_7_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_7_0",
+                "title": "下身伸展"
+            },
+            {
+                "count": 30,
+                "description": "1. 躺姿，脚向上抬起，用双手环抱，可以适时换边拉伸。",
+                "hint": "久坐要伸展一下喔",
+                "images": [
+                    "Yin_a_8_1",
+                    "Yin_a_8_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_8_0",
+                "title": "髋部拉伸"
+            },
+            {
+                "count": 30,
+                "description": "1. 跪姿，上半身下弯让手贴地。",
+                "hint": "久坐要伸展一下喔",
+                "images": [
+                    "Yin_a_11_1",
+                    "Yin_a_11_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_11_0",
+                "title": "上身拉伸"
+            }
+        ]
+    },
+    {
+        "description": "活络身心，下班全身一起动一动",
+        "icon": "Icon_Yin_03_0",
+        "id": "yinyoga2",
+        "time": 4,
+        "title": "基础阴瑜珈",
+        "workoutSet": [
+            {
+                "count": 30,
+                "description": "1. 双腿并拢贴地，上身前弯。\n2. 可视自身情况调整下弯幅度。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_12_1",
+                    "Yin_a_12_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_12_0",
+                "title": "上身拉伸"
+            },
+            {
+                "count": 30,
+                "description": "1. 双手双膝撑地，呈现狗爬式。\n2. 低头让背部拱起。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_13_1",
+                    "Yin_a_13_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_13_0",
+                "title": "下犬式"
+            },
+            {
+                "count": 30,
+                "description": "1. 一脚往前一脚往后向上勾起，上身后仰拉住勾起的脚底板。\n2. 可适时换边喔。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_15_1",
+                    "Yin_a_15_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_15_0",
+                "title": "英雄式"
+            },
+            {
+                "count": 30,
+                "description": "1. 先呈现跪姿，将身体向后仰，若觉得困难也能在后背放个辅助靠着。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_16_1",
+                    "Yin_a_16_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_16_0",
+                "title": "富士山"
+            }
+        ]
+    },
+    {
+        "description": "活络身心，下班全身一起动一动",
+        "icon": "Icon_Yin_04_0",
+        "id": "yinyoga3",
+        "time": 4,
+        "title": "进阶阴瑜珈",
+        "workoutSet": [
+            {
+                "count": 30,
+                "description": "1. 先利用墙面让身体呈现Ｌ字型。\n2. 弯曲膝盖将脚放至头顶。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_17_1",
+                    "Yin_a_17_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_17_0",
+                "title": "弓箭式"
+            },
+            {
+                "count": 30,
+                "description": "1. 臀部支撑地面，慢慢将双腿抬起弯至颈部。\n2. 若无法达到也可尝试让身体和腿往中间夹。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_18_1",
+                    "Yin_a_18_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_18_0",
+                "title": "元宝式"
+            },
+            {
+                "count": 30,
+                "description": "1. 双臂贴齐地面，将身体和双腿向上伸直。\n2. 弯曲髋部身体保值向上直立。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_19_1",
+                    "Yin_a_19_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_19_0",
+                "title": "弯倒立式"
+            },
+            {
+                "count": 30,
+                "description": "1. 先呈现倒立，一脚往上拉伸，一脚拉直下弯90度。",
+                "hint": "下班全身一起动一动",
+                "images": [
+                    "Yin_a_20_1",
+                    "Yin_a_20_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_20_0",
+                "title": "倒芭蕾式"
+            }
+        ]
+    },
+    {
+        "description": "睡前伸展一下，保持最好的睡眠品质!",
+        "icon": "Icon_Yin_05_0",
+        "id": "yinyoga4",
+        "time": 4,
+        "title": "睡前阴瑜珈",
+        "workoutSet": [
+            {
+                "count": 30,
+                "description": "1. 成躺姿，用小腿将身体撑起，大腿尽量呈现平行于地面。\n2. 双手放置脚的位置，贴齐地面。",
+                "hint": "睡前伸展一下",
+                "images": [
+                    "Yin_a_5_1",
+                    "Yin_a_5_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_5_0",
+                "title": "腰部拉伸"
+            },
+            {
+                "count": 30,
+                "description": "1. 正面趴于地面上，将腿和上身向上抬起。",
+                "hint": "睡前伸展一下",
+                "images": [
+                    "Yin_a_6_1",
+                    "Yin_a_6_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_6_0",
+                "title": "超人式"
+            },
+            {
+                "count": 30,
+                "description": "1. 双腿和身体先向上抬起，腿部下弯。\n2. 让大腿贴齐腹部，达到极限拉伸效果。",
+                "hint": "睡前伸展一下",
+                "images": [
+                    "Yin_a_9_1",
+                    "Yin_a_9_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_9_0",
+                "title": "倒立卷曲"
+            },
+            {
+                "count": 30,
+                "description": "1. 双膝跪地后仰，让双手抓住脚踝。",
+                "hint": "睡前伸展一下",
+                "images": [
+                    "Yin_a_14_1",
+                    "Yin_a_14_2"
+                ],
+                "perDuration": 10,
+                "repeat": 2,
+                "thumbnail": "Yin_a_14_0",
+                "title": "Ｏ型后仰"
+            }
+        ]
+    }
+]
